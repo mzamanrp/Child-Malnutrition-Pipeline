@@ -23,7 +23,6 @@ This project demonstrates an **automated, end-to-end ELT data pipeline** and **i
 ---
 
 ## 📊 Dashboard Preview
-*(Note: To make this image appear, upload your dashboard screenshot to the repo as `dashboard_preview.png`)*
 
 ![Power BI Dashboard](dashboard_preview.png)
 
